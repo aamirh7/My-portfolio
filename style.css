@@ -8,7 +8,7 @@
 
 .sidebar {
     position: absolute;
-    background-color: dodgerblue;
+    background-color: rgb(194, 190, 190);
     /* width: 200px; */
     font-family: "Inter", sans-serif;
     height: 100vh;
